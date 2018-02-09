@@ -18,6 +18,6 @@
     "php": ">=5.6",
     "roave/security-advisories": "dev-master",
     "composer/installers": "v1.0.12",
-    "koodimonni/composer-dropin-installer": "^1.1.0",
+    "koodimonni/composer-dropin-installer": "^1.1.0"
   }
 }
