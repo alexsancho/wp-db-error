@@ -6,7 +6,7 @@
  * Author: Alex Sancho
  * Author URI: http://alexsancho.name
  * License: MIT
- * License URI: https://github.com/alexsancho/wp-db-error/blob/master/LICENSE
+ * License URI: https://opensource.org/licenses/MIT
  * Version: 1.0.0
  */
 
