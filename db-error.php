@@ -1,8 +1,13 @@
 <?php
 /**
- * Custom error page rather than database connection error
- * source: http://alexphelps.github.io/server-error-pages/
- * modifications: Alex Sancho
+ * Plugin Name: wp-db-error
+ * Plugin URI: https://github.com/alexsancho/wp-db-error
+ * Description: Custom error page rather than database connection error.
+ * Author: Alex Sancho
+ * Author URI: http://alexsancho.name
+ * License: MIT
+ * License URI: https://github.com/alexsancho/wp-db-error/blob/master/LICENSE
+ * Version: 1.0.0
  */
 
 // Prevent direct access
