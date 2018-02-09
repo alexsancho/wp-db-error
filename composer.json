@@ -1,0 +1,23 @@
+{
+  "name": "alexsancho/wp-db-error",
+  "type": "wordpress-dropin",
+  "license": "MIT",
+  "description": "WordPress database error handling.",
+  "homepage": "https://alexsancho.name",
+  "authors": [
+    {
+      "name": "Alex Sancho",
+      "email": "alex@alexsancho.name",
+      "homepage": "https://github.com/alexsancho"
+    }
+  ],
+  "keywords": [
+    "wordpress","wp","database","error","page","debug"
+  ],
+  "require": {
+    "php": ">=5.6",
+    "roave/security-advisories": "dev-master",
+    "composer/installers": "v1.0.12",
+    "koodimonni/composer-dropin-installer": "^1.1.0",
+  }
+}
