@@ -1,4 +1,5 @@
 # WP Dropin: Better db-error.php
+
 [![Build Status](https://travis-ci.org/alexsancho/wp-db-error.svg?branch=master)](https://travis-ci.org/alexsancho/wp-db-error)
 
 This `db-error.php` dropin enhances default "Database connection error page".
