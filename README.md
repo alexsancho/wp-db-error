@@ -16,7 +16,7 @@ OR you can use composer so that you can automatically update it too. Put these i
 ```json
 {
     "require": {
-        "alexsancho/wp-db-error": "^0.1"
+        "alexsancho/wp-db-error": "^1.0.0"
     },
     "extra": {
         "dropin-paths": {
